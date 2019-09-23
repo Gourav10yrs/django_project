@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e202b6b7-e4a7-4822-9a3a-5a4069bce36f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,8 +16,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/django_project/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="210">
+              <caret line="140" selection-start-line="140" selection-end-line="140" />
+              <folding>
+                <element signature="e#315#324#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -220,6 +224,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7867435" visible="true" weight="0.16443452" />
       <window_info id="Structure" order="1" sideWeight="0.21325648" side_tool="true" visible="true" weight="0.16443452" />
@@ -570,8 +575,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/django_project/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="210">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+          <folding>
+            <element signature="e#315#324#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
