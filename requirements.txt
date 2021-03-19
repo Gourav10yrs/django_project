@@ -9,7 +9,7 @@ dropbox==9.4.0
 docutils==0.14
 gunicorn==19.9.0
 idna==2.8
-Pillow==5.4.1
+Pillow==8.1.1
 pytz==2018.9
 requests==2.21.0
 six==1.12.0
